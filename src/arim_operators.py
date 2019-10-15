@@ -10,6 +10,8 @@ c = a % b
 c = a // b # integer div
 c = a ** b # power
 
+c = -c
+
 #
 a += b
 b -= c
