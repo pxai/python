@@ -1,3 +1,4 @@
+# dictionaries are like hashes
 ages = {'Gandalf':1432, 'Aragorn':543, 'Bilbo':112}
 emptyDictionary = {}
 

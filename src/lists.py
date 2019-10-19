@@ -12,3 +12,5 @@ otherList[0] = 'Satan'
 
 for x in langs:
 	print("Languages : " , x)
+
+a = list("abc") # ['a', 'b', 'c']
